@@ -1,6 +1,6 @@
 package com.maple.grade;
 
-public class Print {
+public class Printer {
 
 	public static void gradePrint(int[] list) {
 		

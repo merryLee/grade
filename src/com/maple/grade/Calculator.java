@@ -32,5 +32,4 @@ public class Calculator {
 		}
 		return average/list.length;
 	}	
-	
 }

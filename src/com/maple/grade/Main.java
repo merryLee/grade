@@ -15,7 +15,8 @@ public class Main {
 			list[i]=s.nextInt();
 		}
 		
-		Print.gradePrint(list);
-
+		Printer.gradePrint(list);
+		
+		TextPrinter.gradeOutput(list);
 	}
 }
